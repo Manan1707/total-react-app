@@ -293,7 +293,7 @@ function Orders() {
             </div>
             <div className="block-footer">
               <a href="#" style={{ textDecoration: "none" }}>
-                <h4 className="more-btn">See more ></h4>
+                <h4 className="more-btn">See more</h4>
               </a>
             </div>
           </div>
